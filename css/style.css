@@ -18,3 +18,10 @@ section{
 
     width: 80%;
 }
+.link-button{
+    background-image:linear-gradient(orange,tomato);
+    padding:10px 40px ;
+    text-decoration: none;
+    border-radius: 15px;
+    color: white;
+}
