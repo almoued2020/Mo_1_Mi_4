@@ -24,4 +24,14 @@ section{
     text-decoration: none;
     border-radius: 15px;
     color: white;
+    font-weight: 700;
 }
+.top-banner{
+    background-image: url(images/top-banner.png);
+
+}
+
+section{
+    background-image: url(images/top-banner.png);
+}
+
