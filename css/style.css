@@ -8,6 +8,7 @@ font-size: 30px;
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -27,11 +28,11 @@ section{
     font-weight: 700;
 }
 .top-banner{
-    background-image: url(images/top-banner.png);
-
+    
+    background-image: url(top-banner.png);
 }
-
-section{
-    background-image: url(images/top-banner.png);
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
 }
 
